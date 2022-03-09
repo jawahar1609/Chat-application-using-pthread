@@ -1,1 +1,1 @@
-# Chat_room-using-pthread
+# Chat-room-using-pthread
